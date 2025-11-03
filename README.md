@@ -13,9 +13,9 @@ Este projeto é uma coleção de exercícios práticos focados na Linguagem Java
 
 ### 1️⃣ [Estrutura Sequencial](https://github.com/beatrizkloss/java-exercicios/blob/main/src/com/exercicios/sequencial/README.md)
 
-### 2️⃣ [Estrutura Condicional](.src/com/exercicios/condicional/README.md)
+### 2️⃣ [Estrutura Condicional](https://github.com/beatrizkloss/java-exercicios/blob/main/src/com/exercicios/condicional/README.md)
 
-### 3️⃣ [Estrutura Repetitiva](.src/com/exercicios/repetitiva/README.md)
+### 3️⃣ [Estrutura Repetitiva](https://github.com/beatrizkloss/java-exercicios/blob/main/src/com/exercicios/repetitiva/README.md)
 
 ---
 
